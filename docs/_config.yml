@@ -1,8 +1,8 @@
 
-title: Project Name
-description: Short tagline for your research project.
+title: ReTabAD
+description: Tabular Anomaly Detection with Retrieval-Augmented Deep Learning
 # For project sites (username.github.io/<repo>), set baseurl to "/<repo>"
-baseurl: "/PROJECT_SLUG"
+baseurl: "/ReTabAD"
 url: "https://yoonsanghyu.github.io" # change if using a custom domain
 theme: jekyll-theme-cayman
 
